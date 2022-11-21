@@ -37,7 +37,7 @@ header a {
 }
 
 .portrait {
-    width: 500px; 
+    width: 600px; 
 }
 
 input {
@@ -53,4 +53,9 @@ button {
     color: white;
     padding: 8px;
 
+}
+
+.lol {
+    font-family: 'Times New Roman', Times, serif;
+    color: #777777;
 }
